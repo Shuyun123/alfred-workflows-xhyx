@@ -1,0 +1,17 @@
+{
+  "name": "alfred-workflow-xhyx",
+  "version": "1.1.0",
+  "description": "小鹤音形编码查询",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "liubiantao",
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^2.1.0"
+  }
+}

@@ -9,7 +9,7 @@
   "keywords": [
     "workflow"
   ],
-  "author": "liubiantao",
+  "author": "anumbrella",
   "license": "ISC",
   "dependencies": {
     "alfy": "^2.1.0"

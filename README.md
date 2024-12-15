@@ -9,7 +9,6 @@
 
 ## 需求
 1. [Alfred App v5](http://www.alfredapp.com/#download)
-![alt text](demo.png)
 ## 安装
 1. 点击上面的下载按钮
 2. 双击导入 Alfred
